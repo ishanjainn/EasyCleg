@@ -1,1 +1,2 @@
-# EasyCleg
+# AutoBox
+Auto Regression and Classification Library
